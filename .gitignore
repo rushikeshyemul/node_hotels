@@ -1,0 +1,4 @@
+# Ignore Node_Modules files
+node_modules/
+
+# Other Entries
